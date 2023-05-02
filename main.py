@@ -32,4 +32,5 @@ while True:
       print("")
 #how to close the program when they are done   
   elif choice == 2:
+    print("Thank you for using my program.")
     break
